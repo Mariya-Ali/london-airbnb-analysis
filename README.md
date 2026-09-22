@@ -89,10 +89,4 @@ colored by price)
 Investigate and handle price outliers
 (e.g., £0 and £25,000 listings)
 
-Add correlation analysis between
-price and availability/review count
-Build an interactive dashboard version
-(Power BI/Tableau)
 
-Part of a data analytics portfolio — see
-more projects on GitHub.
